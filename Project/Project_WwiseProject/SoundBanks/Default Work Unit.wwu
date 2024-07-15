@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{50A18F6E-FB9B-4CCF-AEDD-39734CCF39C5}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{50A18F6E-FB9B-4CCF-AEDD-39734CCF39C5}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{AA2FFA93-4A81-45AE-B797-46E1A04AE1FA}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Foot_Concrete" ID="{E3F8568B-C743-42D6-81EA-3E139E423F71}" WorkUnitID="{E0CFA6E9-6A9E-4E65-B58C-0721AB6BCD1C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Hit11" ID="{D7DEE96F-B22A-461D-B6CA-7EF72AD5283D}" WorkUnitID="{E0CFA6E9-6A9E-4E65-B58C-0721AB6BCD1C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Foot_Snow" ID="{F92ABEDF-49C1-498D-BB1F-DB08EA81B5BA}" WorkUnitID="{E0CFA6E9-6A9E-4E65-B58C-0721AB6BCD1C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Slash11" ID="{067197DC-2AA3-4B08-9FB8-91047D630317}" WorkUnitID="{E0CFA6E9-6A9E-4E65-B58C-0721AB6BCD1C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Hit_Random" ID="{D1757A22-5E60-4B0D-8FE2-E6197A50F648}" WorkUnitID="{E0CFA6E9-6A9E-4E65-B58C-0721AB6BCD1C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Slash_Random" ID="{9B8D9D60-6537-4B95-9D85-2F962163C7EB}" WorkUnitID="{E0CFA6E9-6A9E-4E65-B58C-0721AB6BCD1C}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

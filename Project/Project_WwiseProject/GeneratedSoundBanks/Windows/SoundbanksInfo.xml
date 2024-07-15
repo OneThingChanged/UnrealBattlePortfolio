@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Windows</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{B6CBD692-12EC-CDBA-0932-48F63C40C91F}">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" ObjectPath="\Audio Devices\Default Work Unit\No_Output" GUID="{CD7240AC-61F3-408E-812E-AC283F6E1B6E}" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" ObjectPath="\Audio Devices\Default Work Unit\System" GUID="{B1D7FA1E-3AEC-4CB5-8B28-51B8AF722CE9}" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+			</Busses>
+		</SoundBank>
+		<SoundBank Id="3161908922" Type="User" GUID="{AA2FFA93-4A81-45AE-B797-46E1A04AE1FA}" Language="SFX" Hash="{EB5C3B97-7AF5-A155-487E-A5E6787FD944}">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<Media>
+				<File Id="37428503" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Hit_01.wav</ShortName>
+					<CachePath>SFX/Hit_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="80858494" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Hit_03.wav</ShortName>
+					<CachePath>SFX/Hit_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="87133329" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_Snow_06.wav</ShortName>
+					<CachePath>SFX/Foot_Snow_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="136786488" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_concrete_05.wav</ShortName>
+					<CachePath>SFX/Foot_concrete_05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="163710612" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Slash_03.wav</ShortName>
+					<CachePath>SFX/Slash_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="222357880" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Slash_04_1.wav</ShortName>
+					<CachePath>SFX/Slash_04_1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="223892854" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_concrete_04.wav</ShortName>
+					<CachePath>SFX/Foot_concrete_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="247397912" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Hit_04.wav</ShortName>
+					<CachePath>SFX/Hit_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="249099621" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_Snow_03.wav</ShortName>
+					<CachePath>SFX/Foot_Snow_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="270276526" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_concrete_02.wav</ShortName>
+					<CachePath>SFX/Foot_concrete_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="420546479" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Slash_02.wav</ShortName>
+					<CachePath>SFX/Slash_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="502881258" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Slash_01.wav</ShortName>
+					<CachePath>SFX/Slash_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="515849972" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_concrete_06.wav</ShortName>
+					<CachePath>SFX/Foot_concrete_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="527900907" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_Snow_02.wav</ShortName>
+					<CachePath>SFX/Foot_Snow_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="592316903" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_Snow_05.wav</ShortName>
+					<CachePath>SFX/Foot_Snow_05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="607747494" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_Snow_01.wav</ShortName>
+					<CachePath>SFX/Foot_Snow_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="616504926" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_Snow_04.wav</ShortName>
+					<CachePath>SFX/Foot_Snow_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="758510223" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_concrete_01.wav</ShortName>
+					<CachePath>SFX/Foot_concrete_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="765131336" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foot_concrete_03.wav</ShortName>
+					<CachePath>SFX/Foot_concrete_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1003005275" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Hit_02.wav</ShortName>
+					<CachePath>SFX/Hit_02_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3366368897" Name="Foot_Concrete" ObjectPath="\Events\Default Work Unit\Foot_Concrete" GUID="{E3F8568B-C743-42D6-81EA-3E139E423F71}" DurationType="OneShot" DurationMin="0.25814584" DurationMax="0.75329167">
+					<MediaRefs>
+						<MediaRef Id="136786488"/>
+						<MediaRef Id="223892854"/>
+						<MediaRef Id="270276526"/>
+						<MediaRef Id="515849972"/>
+						<MediaRef Id="758510223"/>
+						<MediaRef Id="765131336"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4069083361" Name="Foot_Snow" ObjectPath="\Events\Default Work Unit\Foot_Snow" GUID="{F92ABEDF-49C1-498D-BB1F-DB08EA81B5BA}" DurationType="OneShot" DurationMin="0.29870832" DurationMax="0.5436875">
+					<MediaRefs>
+						<MediaRef Id="87133329"/>
+						<MediaRef Id="249099621"/>
+						<MediaRef Id="527900907"/>
+						<MediaRef Id="592316903"/>
+						<MediaRef Id="607747494"/>
+						<MediaRef Id="616504926"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1956630802" Name="Hit11" ObjectPath="\Events\Default Work Unit\Hit11" GUID="{D7DEE96F-B22A-461D-B6CA-7EF72AD5283D}" DurationType="OneShot" DurationMin="0.86225" DurationMax="0.86225">
+					<MediaRefs>
+						<MediaRef Id="80858494"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3018398142" Name="Hit_Random" ObjectPath="\Events\Default Work Unit\Hit_Random" GUID="{D1757A22-5E60-4B0D-8FE2-E6197A50F648}" DurationType="OneShot" DurationMin="0.86225" DurationMax="1.2361667">
+					<MediaRefs>
+						<MediaRef Id="37428503"/>
+						<MediaRef Id="80858494"/>
+						<MediaRef Id="247397912"/>
+						<MediaRef Id="1003005275"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1739675874" Name="Slash11" ObjectPath="\Events\Default Work Unit\Slash11" GUID="{067197DC-2AA3-4B08-9FB8-91047D630317}" DurationType="OneShot" DurationMin="1.5709584" DurationMax="1.5709584">
+					<MediaRefs>
+						<MediaRef Id="222357880"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2271257774" Name="Slash_Random" ObjectPath="\Events\Default Work Unit\Slash_Random" GUID="{9B8D9D60-6537-4B95-9D85-2F962163C7EB}" DurationType="OneShot" DurationMin="0.68475" DurationMax="0.77270836">
+					<MediaRefs>
+						<MediaRef Id="163710612"/>
+						<MediaRef Id="420546479"/>
+						<MediaRef Id="502881258"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{912355C7-F6EF-0379-A9EA-8DB2C1680A48}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,30 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1739675874	Slash11			\Default Work Unit\Slash11	
+	1956630802	Hit11			\Default Work Unit\Hit11	
+	2271257774	Slash_Random			\Default Work Unit\Slash_Random	
+	3018398142	Hit_Random			\Default Work Unit\Hit_Random	
+	3366368897	Foot_Concrete			\Default Work Unit\Foot_Concrete	
+	4069083361	Foot_Snow			\Default Work Unit\Foot_Snow	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	37428503	Hit_01	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Hit_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit_Random\Hit_01		217280
+	80858494	Hit1	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Hit_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit1		165648
+	87133329	Foot_Snow_06	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_Snow_06_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Snow\Foot_Snow_06		66596
+	136786488	Foot_concrete_05	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_concrete_05_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Concrete\Foot_concrete_05		49660
+	163710612	Slash_03	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Slash_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Slash_Random\Slash_03		131568
+	222357880	Slash1	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Slash_04_1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Slash1		301720
+	223892854	Foot_concrete_04	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_concrete_04_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Concrete\Foot_concrete_04		49660
+	247397912	Hit_04	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Hit_04_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit_Random\Hit_04		195288
+	249099621	Foot_Snow_03	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_Snow_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Snow\Foot_Snow_03		75976
+	270276526	Foot_concrete_02	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_concrete_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Concrete\Foot_concrete_02		144728
+	420546479	Slash_02	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Slash_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Slash_Random\Slash_02		138664
+	502881258	Slash_01	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Slash_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Slash_Random\Slash_01		148456
+	515849972	Foot_concrete_06	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_concrete_06_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Concrete\Foot_concrete_06		144728
+	527900907	Foot_Snow_02	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_Snow_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Snow\Foot_Snow_02		66320
+	592316903	Foot_Snow_05	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_Snow_05_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Snow\Foot_Snow_05		57448
+	607747494	Foot_Snow_01	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_Snow_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Snow\Foot_Snow_01		104484
+	616504926	Foot_Snow_04	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_Snow_04_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Snow\Foot_Snow_04		75748
+	758510223	Foot_concrete_01	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_concrete_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Concrete\Foot_concrete_01		67080
+	765131336	Foot_concrete_03	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Foot_concrete_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foot_Concrete\Foot_concrete_03		144728
+	1003005275	Hit_02	D:\EVE\EveProject\Project\Project_WwiseProject\.cache\Mac\SFX\Hit_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit_Random\Hit_02		237440
+

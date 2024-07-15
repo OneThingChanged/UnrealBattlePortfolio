@@ -1,5 +1,26 @@
 # Visual Studio 2015 user specific files
 .vs/
+.idea/
+Binaries/
+Saved/
+Intermediate/
+StarterContent/
+ThirdPerson/
+Characters/
+IgnoreCommit/
+Export/
+Build/
+
+# GITIGNORE template for Wwise Project
+
+.backup*
+.cache*
+*.akd
+*.prof
+*.validationcache
+*.wsettings
+AkWwiseProjectData.asset
+IncrementalSoundBankData.xml
 
 # Compiled Object files
 *.slo
@@ -40,6 +61,7 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+*.user
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -72,3 +94,25 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+.vsconfig
+/Project/DerivedDataCache
+/Project/Plugins/Wwise/ThirdParty/x64_vc170
+/Project/Plugins/Wwise/ThirdParty/Win32_vc160
+/Project/Plugins/Wwise/ThirdParty/Win32_vc170
+/Project/Plugins/Wwise/ThirdParty/WinGC_vc160
+/Project/Plugins/Wwise/ThirdParty/WinGC_vc170
+/Project/Plugins/Wwise/ThirdParty/x64_vc160
+/Project/Plugins/Wwise/ThirdParty/Android
+/Project/Plugins/Wwise/ThirdParty/IOS
+/Project/Plugins/Wwise/ThirdParty/Mac
+/Project/Plugins/Wwise/ThirdParty/tvOS
+/Project/Plugins/Wwise/Source/WwiseSoundEngine/Public/Generated
+/Project/enc_temp_folder
+Project/Plugins/Wwise/LauncherInfo.json
+Project/Plugins/Wwise/Source/WwiseSoundEngine/Public/Generated/AkiOSPlugins.h
+Project/Plugins/Wwise/Source/WwiseSoundEngine/Public/Generated/AktvOSPlugins.h
+Project/Plugins/Wwise/ThirdParty/include/AK/SoundEngine/Platforms/iOS/AkPlatformContext.h
+Project/Plugins/Wwise/ThirdParty/include/AK/SoundEngine/Platforms/Mac/AkPlatformContext.h
+Project/Plugins/Wwise/ThirdParty/include/AK/SoundEngine/Platforms/POSIX/AkMemoryMgrFuncs.h
